@@ -1,16 +1,81 @@
-# React + Vite
+# Trendox Marketing Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive marketing agency website built with React, Tailwind CSS, and React Router.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Live Demo](https://marketing-agency-website-demo.vercel.app)
 
-## React Compiler
+## 📁 Project Structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```text
+src/
+├── components/     # Reusable components (Navbar, Footer, etc.)
+├── pages/          # Page components (Home, About, Portfolio, etc.)
+├── App.jsx         # Main app with routing
+├── main.jsx        # Entry point
+└── index.css       # Global styles and animations
+```
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** - UI library
+* **Tailwind CSS** - Styling
+* **React Router** - Navigation
+* **Vite** - Build tool
+
+## 📄 Pages Included
+
+* Home
+* About
+* Portfolio
+* Contact
+* Career
+* Blog
+
+## 🎨 Features
+
+* Fully responsive design
+* Dark theme
+* Smooth animations
+* Interactive dropdown menus
+* Contact form
+* Blog posts grid
+* Career listings with apply buttons
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js (v14 or higher)
+* npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/namita1005s/Marketing-agency-website.git
+
+# Navigate to project folder
+cd Marketing-agency-website
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 📞 Contact
+
+For any inquiries, please reach out through the contact form on the website.
+
+## 📝 License
+
+All rights reserved.
