@@ -4,7 +4,7 @@ A modern, responsive marketing agency website built with React, Tailwind CSS, an
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://marketing-agency-website-demo.vercel.app)
+[View Live Demo](https://vite-project-82k74bkvj-namita-singhs-projects-795e7138.vercel.app)
 
 ## 📁 Project Structure
 
